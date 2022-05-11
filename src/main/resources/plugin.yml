@@ -1,0 +1,6 @@
+name: MysticJoins
+version: '${project.version}'
+main: me.shreyasayyengar.mysticjoins.MysticJoinsPlugin
+api-version: 1.18
+authors: [ ShreyasAyyengar ]
+description: Effects and displays for when a player joins the server
